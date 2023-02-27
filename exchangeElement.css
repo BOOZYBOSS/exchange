@@ -1,8 +1,0 @@
-.exchangeElement {
-    min-width: 300px;
-    min-height: 300px;
-    resize: both;
-    overflow: auto;
-    background-image: url("../images/bacground.jpeg");
-    background-repeat: repeat;
-}
